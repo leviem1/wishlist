@@ -1,6 +1,6 @@
 # wishlist
 
-* [1TB SanDisk Extreme® microSDXC™ UHS-I CARD](https://www.westerndigital.com/products/memory-cards/sandisk-extreme-uhs-i-microsd#SDSQXAV-1T00-GN6MA)
+* ~~[1TB SanDisk Extreme® microSDXC™ UHS-I CARD](https://www.westerndigital.com/products/memory-cards/sandisk-extreme-uhs-i-microsd#SDSQXAV-1T00-GN6MA)~~
 * [Bose Noise Cancelling Headphones 700 UC](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/noise-cancelling-headphones-700-conferencing.html#v=noise_cancelling_headphones_700_conferencing_black)
 * [Kobalt 6-gallon Electric Air Compressor](https://www.lowes.com/pd/Kobalt/5013549743)
 * ~~[Steam Gift Card](https://store.steampowered.com/digitalgiftcards/)~~
